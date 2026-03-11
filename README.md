@@ -61,3 +61,4 @@ This deletes your local copy and starts fresh. Your work on GitHub is safe.
 
 - Will Chapman (wchapman@colorado.edu)
 - Office hours: Tu 11:15-12:15p, Th 9-10a (Aerospace Cafe)
+- Edited on GitHub by Demi Davoll
