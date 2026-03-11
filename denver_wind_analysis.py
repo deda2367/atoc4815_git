@@ -40,6 +40,7 @@ def average_wind_speed(data):
     """
     # TODO: Calculate the average of avg_wind_mph across all days
     # Hint: sum up all the avg_wind_mph values and divide by the number of days
+
     result = None
     return result
 
@@ -58,6 +59,7 @@ def count_advisory_days(data, threshold=25.0):
     """
     # TODO: Count how many days had avg_wind_mph greater than threshold
     # Hint: loop through data and count days where avg_wind_mph > threshold
+    
     result = None
     return result
 
@@ -75,6 +77,7 @@ def windiest_day(data):
     # Hint: loop through data, track the highest max_gust_mph and its date
     result = None
     return result
+
 
 
 # ---- Run the analysis ----
